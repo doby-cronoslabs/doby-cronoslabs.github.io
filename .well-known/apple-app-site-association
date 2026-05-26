@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "3Y7F5G6VCM.com.defi.stg.wallet.enterprise",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "3Y7F5G6VCM.com.defi.uat.wallet.enterprise",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "3Y7F5G6VCM.com.defi.uat.wallet.enterprise",
+      "3Y7F5G6VCM.com.defi.stg.wallet.enterprise"
+    ]
+  }
+}
